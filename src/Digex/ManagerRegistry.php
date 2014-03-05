@@ -5,6 +5,10 @@ namespace Digex;
 use Doctrine\Common\Persistence\AbstractManagerRegistry;
 use Silex\Application;
 
+/**
+ * @author    Damien Pitard <damien.pitard@digitaslbi.fr>
+ * @copyright 2012 DigitasLBi
+ */
 class ManagerRegistry extends AbstractManagerRegistry
 {
     /**
